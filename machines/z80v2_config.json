@@ -1,0 +1,7 @@
+{
+  "clock_hz": 4000000,
+  "open_windows": null,
+  "rom_image": "../reference/source/build/cpm/loader.bin",
+  "cf_image": "../reference/source/build/cpm/cf-cpm.img",
+  "cf_readonly": true
+}
